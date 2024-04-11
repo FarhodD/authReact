@@ -1,0 +1,1 @@
+export const BASE_API = 'https://077bb05296c26dd1.mokky.dev'
